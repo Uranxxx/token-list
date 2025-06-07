@@ -29685,7 +29685,7 @@
       "extensions": {
         "discord": "https://discord.gg/spaceheads",
       }
-    },
+       },
     {
       "chainId": 101,
       "address": "4dXUEZrCBn5sJXtkXqUM4sR3AohH3vAXhCbPCxqXQfeZ",
@@ -29695,4 +29695,9 @@
       "logoURI": "https://raw.githubusercontent.com/Uranxxx/token-list/main/assets/mainnet/4dXUEZrCBn5sJXtkXqUM4sR3AohH3vAXhCbPCxqXQfeZ/logo.png",
       "tags": [
         "utility-token"
-      ],
+      ]
+    }
+  ]
+  }
+        
+        
