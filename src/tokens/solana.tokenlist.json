@@ -29685,20 +29685,6 @@
       "extensions": {
         "discord": "https://discord.gg/spaceheads",
       }
-       },
-    {
-      "chainId": 101,
-      "address": "4dXUEZrCBn5sJXtkXqUM4sR3AohH3vAXhCbPCxqXQfeZ",
-      "symbol": "TREEF",
-      "name": "TreeFound",
-      "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/Uranxxx/token-list/main/assets/mainnet/4dXUEZrCBn5sJXtkXqUM4sR3AohH3vAXhCbPCxqXQfeZ/logo.png",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-        "website": "https://treefound.carrd.co"
-      }
-    }
+       }
         
         
